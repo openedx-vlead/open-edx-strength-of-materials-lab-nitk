@@ -1,0 +1,56 @@
+<problem display_name="Multiple Choice" markdown="1. The shear stress at any section of a shaft is maximum&#10;&#10;   (x) At top surface&#10;   () At centre of section&#10;   () At distance r/2 from centre&#10;  ()  At distance 3r/4 from centre&#10;    &#10;    2. Rate of loading for determination of shear strength parallel to the grain is&#10;&#10;  ()  0.1 mm per minute&#10;  ()  0.8 mm per minute&#10; (x)   0.4 mm per minute&#10;  ()  0.6 mm per minute&#10;  &#10;  3. What is Factor of Safety?&#10;&#10; (x)   Ultimate Stress/ working stress&#10;  ()  Yield stress/ working stress&#10;  ()  Load/ Area&#10;  ()  Stress /strain&#10;  &#10;  4. For which material the failure load is least?&#10;&#10;(x)    Wood&#10; ()   Mild-steel rod&#10;  ()  Mild-steel plate&#10;  &#10;  5. In shear test conducted for mild steel rod( M.S.R), mild steel plate( M.S.P) and timber( T), which is the correct order of shear strength obtained&#10;&#10; ()   Timber in single shear &gt; M.S.R in double shear &gt; M.S.P in double shear&#10; (x)   M.S.P in double shear &gt; M.S.R in double shear &gt; Timber in single shear&#10; ()   M.S.R in double shear &gt; M.S.P in double shear &gt; Timber in single shear&#10; ()   M.S.R in double shear &gt; Timber in single shear &gt; M.S.P in double shear">
+<p>1. The shear stress at any section of a shaft is maximum</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">At top surface</choice>
+    <choice correct="false">At centre of section</choice>
+    <choice correct="false">At distance r/2 from centre</choice>
+    <choice correct="false">At distance 3r/4 from centre</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>    </p>
+<p>    2. Rate of loading for determination of shear strength parallel to the grain is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">0.1 mm per minute</choice>
+    <choice correct="false">0.8 mm per minute</choice>
+    <choice correct="true">0.4 mm per minute</choice>
+    <choice correct="false">0.6 mm per minute</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  3. What is Factor of Safety?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Ultimate Stress/ working stress</choice>
+    <choice correct="false">Yield stress/ working stress</choice>
+    <choice correct="false">Load/ Area</choice>
+    <choice correct="false">Stress /strain</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  4. For which material the failure load is least?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Wood</choice>
+    <choice correct="false">Mild-steel rod</choice>
+    <choice correct="false">Mild-steel plate</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  5. In shear test conducted for mild steel rod( M.S.R), mild steel plate( M.S.P) and timber( T), which is the correct order of shear strength obtained</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Timber in single shear &gt; M.S.R in double shear &gt; M.S.P in double shear</choice>
+    <choice correct="true">M.S.P in double shear &gt; M.S.R in double shear &gt; Timber in single shear</choice>
+    <choice correct="false">M.S.R in double shear &gt; M.S.P in double shear &gt; Timber in single shear</choice>
+    <choice correct="false">M.S.R in double shear &gt; Timber in single shear &gt; M.S.P in double shear</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

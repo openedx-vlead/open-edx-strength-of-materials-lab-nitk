@@ -1,0 +1,46 @@
+<problem display_name="Multiple Choice" markdown="1. The extremities of any diameter on Mohr's circle represent&#10;&#10; (x)   Normal stresses on planes at 45 degree&#10;  ()  Shear stresses on planes at 45 degree&#10;   () Principal stresses&#10; ()   Normal and shear stresses on a plane&#10; &#10; 2. The Grain of a wooden member forms an angle of 15 degree with the vertical. For the state of stress shown determine normal stress perpendicular to the grain?&#10;&#10;(x)    -2.598MPa&#10; ()   4.58MPa&#10;  ()  3.34MPa&#10;  ()  5.061MPa&#10;  &#10;  3. For the state of plane stress determine principal stresses?&#10;&#10; (x)   -28MPa, 132MPa&#10; ()   09MPa, 325MPa&#10; ()   28MPa,132MPa&#10; ()   97MPa, -10MPa&#10; &#10; 4. Mohr's theorem I gives _____ between two tangents on the elastic line of beams&#10;&#10;  ()  Slope&#10;  ()  S.F.&#10;  ()  Deflection&#10;  (x)  B.M.">
+<p>1. The extremities of any diameter on Mohr's circle represent</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Normal stresses on planes at 45 degree</choice>
+    <choice correct="false">Shear stresses on planes at 45 degree</choice>
+    <choice correct="false">Principal stresses</choice>
+    <choice correct="false">Normal and shear stresses on a plane</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 2. The Grain of a wooden member forms an angle of 15 degree with the vertical. For the state of stress shown determine normal stress perpendicular to the grain?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">-2.598MPa</choice>
+    <choice correct="false">4.58MPa</choice>
+    <choice correct="false">3.34MPa</choice>
+    <choice correct="false">5.061MPa</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  3. For the state of plane stress determine principal stresses?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">-28MPa, 132MPa</choice>
+    <choice correct="false">09MPa, 325MPa</choice>
+    <choice correct="false">28MPa,132MPa</choice>
+    <choice correct="false">97MPa, -10MPa</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 4. Mohr's theorem I gives _____ between two tangents on the elastic line of beams</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Slope</choice>
+    <choice correct="false">S.F.</choice>
+    <choice correct="false">Deflection</choice>
+    <choice correct="true">B.M.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

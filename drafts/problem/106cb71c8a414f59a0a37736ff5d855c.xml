@@ -1,0 +1,46 @@
+<problem display_name="Multiple Choice" markdown="1. For simply supported beams, the maximum permitted deflection is&#10;&#10;  ()  1/350 of the span&#10;  ()  1/375 of the span&#10;  (x)  1/325 of the span&#10;  ()  1/400 of the span&#10;  &#10;  2. When a beam deflects into a uniform strength then its width will vary proportional to&#10;&#10; (x)   I^2 /8R&#10;  ()  I/2R&#10;  ()  I/8R&#10;  ()  I^2 /2d&#10;  &#10;  3. A rectangular beam of length I supported at its two ends carries a central concentrated load W at its centre. The maximum deflection occurs&#10;&#10;  ()  At 1/4 from both ends&#10; (x)   At mid span&#10;  ()  At 1/3 from both ends&#10;  ()  At the ends&#10;  &#10;  4. The deflection of any rectangular beam simply supported, is&#10;&#10;  ()  Directly proportional to the cube of its length&#10;  (x)  Inversely proportional to the cube of its depth&#10;  ()  Inversely proportional to its width&#10;  ()  Directly proportional to its weight&#10;  ">
+<p>1. For simply supported beams, the maximum permitted deflection is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">1/350 of the span</choice>
+    <choice correct="false">1/375 of the span</choice>
+    <choice correct="true">1/325 of the span</choice>
+    <choice correct="false">1/400 of the span</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  2. When a beam deflects into a uniform strength then its width will vary proportional to</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">I^2 /8R</choice>
+    <choice correct="false">I/2R</choice>
+    <choice correct="false">I/8R</choice>
+    <choice correct="false">I^2 /2d</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  3. A rectangular beam of length I supported at its two ends carries a central concentrated load W at its centre. The maximum deflection occurs</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">At 1/4 from both ends</choice>
+    <choice correct="true">At mid span</choice>
+    <choice correct="false">At 1/3 from both ends</choice>
+    <choice correct="false">At the ends</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  4. The deflection of any rectangular beam simply supported, is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Directly proportional to the cube of its length</choice>
+    <choice correct="true">Inversely proportional to the cube of its depth</choice>
+    <choice correct="false">Inversely proportional to its width</choice>
+    <choice correct="false">Directly proportional to its weight</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+</problem>
