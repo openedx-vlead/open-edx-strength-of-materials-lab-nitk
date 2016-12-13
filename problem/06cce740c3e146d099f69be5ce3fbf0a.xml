@@ -1,0 +1,50 @@
+<problem display_name="Multiple Choice" markdown="1. What is the IS code for metals?&#10;&#10;(x)    IS 5242:1979&#10; ()   IS 2654:1977&#10;  ()  IS 1708:1986&#10;  ()  IS 2655:1964&#10;  &#10;  2. How is the double shear strength calculated?&#10;&#10; (x)   P / (2 * A)&#10; ()   P / A&#10; ()   P / (0.5 * A)&#10; ()   (2 * P) / A&#10; &#10; 3. The material in the shear test fails due to&#10;&#10;  ()  Due to the bending action caused&#10; (x)   Surfaces go out of alignment with each other&#10;  ()  Sudden impact forces acting&#10; ()   None of these&#10; &#10; 4. Direct shear test specimen is not affected by the length of the specimen(Say True or False).&#10;&#10; (x)   True&#10;  ()  False&#10;  &#10;  &#10;  5. The minimum length of the specimen required according to the code is&#10;&#10; (x)   Twice the diameter&#10; ()   Equal to diameter&#10; ()   Four times the diameter&#10; ()   None of these">
+  <p>1. What is the IS code for metals?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">IS 5242:1979</choice>
+      <choice correct="false">IS 2654:1977</choice>
+      <choice correct="false">IS 1708:1986</choice>
+      <choice correct="false">IS 2655:1964</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  2. How is the double shear strength calculated?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">P / (2 * A)</choice>
+      <choice correct="false">P / A</choice>
+      <choice correct="false">P / (0.5 * A)</choice>
+      <choice correct="false">(2 * P) / A</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 3. The material in the shear test fails due to</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Due to the bending action caused</choice>
+      <choice correct="true">Surfaces go out of alignment with each other</choice>
+      <choice correct="false">Sudden impact forces acting</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 4. Direct shear test specimen is not affected by the length of the specimen(Say True or False).</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  </p>
+  <p>  5. The minimum length of the specimen required according to the code is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Twice the diameter</choice>
+      <choice correct="false">Equal to diameter</choice>
+      <choice correct="false">Four times the diameter</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

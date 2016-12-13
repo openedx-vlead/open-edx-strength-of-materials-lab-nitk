@@ -1,0 +1,31 @@
+<problem display_name="Multiple Choice" markdown="1. The ratio of maximum shear stress and average shear stress for a rectangular section is&#10;&#10; (x)   1.5&#10;  ()  1.0&#10;  ()  2.0&#10;   () 2.5&#10;    &#10;    2. Lap joint is a example for single shear (say true or false)&#10;&#10;    () False&#10;  (x)  True&#10;  &#10;  3. When a body is subjected to a direct tensile stress in one plane, the maximum shear stress is __________ the maximum normal stress.&#10;&#10;(x)    One-half&#10;  ()  Twice&#10;  ()  Three times&#10;  ()  Half&#10;  &#10;  ">
+  <p>1. The ratio of maximum shear stress and average shear stress for a rectangular section is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">1.5</choice>
+      <choice correct="false">1.0</choice>
+      <choice correct="false">2.0</choice>
+      <choice correct="false">2.5</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>    </p>
+  <p>    2. Lap joint is a example for single shear (say true or false)</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">False</choice>
+      <choice correct="true">True</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  3. When a body is subjected to a direct tensile stress in one plane, the maximum shear stress is __________ the maximum normal stress.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">One-half</choice>
+      <choice correct="false">Twice</choice>
+      <choice correct="false">Three times</choice>
+      <choice correct="false">Half</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>  </p>
+</problem>
