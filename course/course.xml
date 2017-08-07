@@ -1,5 +1,8 @@
 <course advertised_start="Anytime" cert_html_view_enabled="true" course_image="NITK-Strength of Materials.jpg" display_name="Strength of Materials" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-30T00:00:00+00:00&quot;">
   <chapter url_name="7defb4e1982b40498b953e8353a0c05b"/>
+  <chapter url_name="37b095373ac64e30a07f0d9166239ef8"/>
+  <chapter url_name="4c4bc7c1f4914cb4b4f5c675e6885c80"/>
+  <chapter url_name="c8a05d48402146eba7bb2e70af121155"/>
   <chapter url_name="a696bf9f41ba4d33a491186965540c8c"/>
   <chapter url_name="9eecdd4be7064064b03d51c29791087b"/>
   <chapter url_name="d91cf468794b40e4ac39e16afe72388d"/>
@@ -10,9 +13,6 @@
   <chapter url_name="a5e367fbfed04382941e72d67df2d3de"/>
   <chapter url_name="88166b593d224c2bb339e0da4bc53a44"/>
   <chapter url_name="922528f1374b4f478c1b6a5a03ecf595"/>
-  <chapter url_name="37b095373ac64e30a07f0d9166239ef8"/>
-  <chapter url_name="4c4bc7c1f4914cb4b4f5c675e6885c80"/>
-  <chapter url_name="c8a05d48402146eba7bb2e70af121155"/>
   <chapter url_name="13c71a103beb4b8fa7f550c1ec98a610"/>
   <wiki slug="NITK.SM-NITK.Anytime"/>
 </course>

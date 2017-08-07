@@ -1,49 +1,54 @@
-<problem display_name="Multiple Choice" markdown="1. During hardness test the indenter is usually a&#10;&#10;(x)    All of the above&#10; ()   Pyramid indenter&#10; ()   Ball indenter&#10;  ()  Cone indenter&#10;  &#10;  2. The value of distance between successive indentation is always lesser than distance of centre of indentation from edge of specimen.(true or false)&#10;&#10;  ()  True&#10; (x)   False&#10; &#10; 3. The ability of the material to resist stress without failure is called&#10;&#10;  ()  Stiffness&#10;  (x)  Strength&#10;  ()  Hardness&#10;  ()  Toughness&#10;  &#10;  4. For hardness test of copper in Brinell hardness tester, the diameter of ball is&#10;&#10;  (x)  5 mm&#10;  ()  7 mm&#10;  ()  3 mm&#10;  ()  1 mm&#10;  &#10;  5. Property of hardness of material is resistance to&#10;&#10; ()   Indentation&#10; (x)   All the above&#10;  ()  Wear&#10;  ()  Scratching">
-  <p>1. During hardness test the indenter is usually a</p>
-  <multiplechoiceresponse>
-    <choicegroup type="MultipleChoice">
-      <choice correct="true">All of the above</choice>
-      <choice correct="false">Pyramid indenter</choice>
-      <choice correct="false">Ball indenter</choice>
-      <choice correct="false">Cone indenter</choice>
-    </choicegroup>
-  </multiplechoiceresponse>
-  <p>  </p>
-  <p>  2. The value of distance between successive indentation is always lesser than distance of centre of indentation from edge of specimen.(true or false)</p>
-  <multiplechoiceresponse>
-    <choicegroup type="MultipleChoice">
-      <choice correct="false">True</choice>
-      <choice correct="true">False</choice>
-    </choicegroup>
-  </multiplechoiceresponse>
-  <p> </p>
-  <p> 3. The ability of the material to resist stress without failure is called</p>
-  <multiplechoiceresponse>
-    <choicegroup type="MultipleChoice">
-      <choice correct="false">Stiffness</choice>
-      <choice correct="true">Strength</choice>
-      <choice correct="false">Hardness</choice>
-      <choice correct="false">Toughness</choice>
-    </choicegroup>
-  </multiplechoiceresponse>
-  <p>  </p>
-  <p>  4. For hardness test of copper in Brinell hardness tester, the diameter of ball is</p>
-  <multiplechoiceresponse>
-    <choicegroup type="MultipleChoice">
-      <choice correct="true">5 mm</choice>
-      <choice correct="false">7 mm</choice>
-      <choice correct="false">3 mm</choice>
-      <choice correct="false">1 mm</choice>
-    </choicegroup>
-  </multiplechoiceresponse>
-  <p>  </p>
-  <p>  5. Property of hardness of material is resistance to</p>
-  <multiplechoiceresponse>
-    <choicegroup type="MultipleChoice">
-      <choice correct="false">Indentation</choice>
-      <choice correct="true">All the above</choice>
-      <choice correct="false">Wear</choice>
-      <choice correct="false">Scratching</choice>
-    </choicegroup>
-  </multiplechoiceresponse>
+<problem display_name="Multiple Choice" markdown="1. During hardness test the indenter is usually a&#10;&#10;()  Pyramid indenter&#10;()  Ball indenter&#10;()  Cone indenter&#10;(x) All of the above&#10;&#10;  2. The value of distance between successive indentation is always lesser than distance of centre of indentation from edge of specimen.(true or false)&#10;&#10; ()  True&#10; (x) False&#10; &#10; 3. The ability of the material to resist stress without failure is called&#10;&#10;  ()  Stiffness&#10;  (x) Strength&#10;  ()  Hardness&#10;  ()  Toughness&#10;  &#10;  4. For hardness test of copper in Brinell hardness tester, the diameter of ball is&#10;&#10;  (x) 5 mm&#10;  ()  7 mm&#10;  ()  3 mm&#10;  ()  1 mm&#10;  &#10;  5. Property of hardness of material is resistance to&#10;&#10; ()  Indentation&#10; ()  Wear&#10; ()  Scratching&#10; (x) All the above&#10;">
+<p>1. During hardness test the indenter is usually a</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Pyramid indenter</choice>
+    <choice correct="false">Ball indenter</choice>
+    <choice correct="false">Cone indenter</choice>
+    <choice correct="true">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  2. The value of distance between successive indentation is always lesser than distance of centre of indentation from edge of specimen.(true or false)</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 3. The ability of the material to resist stress without failure is called</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Stiffness</choice>
+    <choice correct="true">Strength</choice>
+    <choice correct="false">Hardness</choice>
+    <choice correct="false">Toughness</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  4. For hardness test of copper in Brinell hardness tester, the diameter of ball is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">5 mm</choice>
+    <choice correct="false">7 mm</choice>
+    <choice correct="false">3 mm</choice>
+    <choice correct="false">1 mm</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>  </p>
+<p>  5. Property of hardness of material is resistance to</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Indentation</choice>
+    <choice correct="false">Wear</choice>
+    <choice correct="false">Scratching</choice>
+    <choice correct="true">All the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
 </problem>
